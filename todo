@@ -1,0 +1,5 @@
+1. Navbar.tsx signout form redirectTo and link href is different.
+2. Page.tsx date is directly converted rather making it a utils.ts function.
+
+3. loading bar (done)
+4. change the logo in the navbar (done)
