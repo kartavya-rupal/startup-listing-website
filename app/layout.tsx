@@ -53,7 +53,7 @@ const workSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'InnoVault - Showcase Your Startup',
+  title: 'InnoVault - Showcase Your Ideas',
   description: 'Present your startup, connect with investors, and explore innovation on InnoVault.',
   icons: {
     icon: './public/favicon.ico',
