@@ -140,11 +140,6 @@ export type Playlist = {
     _key: string;
     [internalGroqTypeReferenceTo]?: "startup";
   }>;
-  views?: number;
-  description?: string;
-  category?: string;
-  image?: string;
-  pitch?: string;
 };
 
 export type Startup = {
