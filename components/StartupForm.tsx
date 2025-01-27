@@ -49,7 +49,7 @@ const StartupForm = () => {
             }
             toast({
                 title: 'Error',
-                description: error.message,
+                description: "Invalid URL. Use URL containing .webp, .jpg, .png, etc...",
                 variant: 'destructive',
             })
             return { ...prevState, error: error.message }
